@@ -2,6 +2,7 @@
 > Autonomous Sub-Second DeFi Circuit Breaker & Liquidity Sentinel on Base Sepolia powered by Reactive Omni
 
 [![Hackathon: Reactive Omni Buildathon](https://img.shields.io/badge/DoraHacks-Reactive_Omni_Buildathon-blue.svg)](https://dorahacks.io/hackathon/reactive-omni-buildathon)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-omnicircuit--reactive.vercel.app-blue.svg)](https://omnicircuit-reactive.vercel.app)
 [![Track: Every Second Counts](https://img.shields.io/badge/Track-Every_Second_Counts-emerald.svg)](https://dorahacks.io/hackathon/reactive-omni-buildathon)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray.svg)](LICENSE)
 
