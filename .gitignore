@@ -1,0 +1,22 @@
+node_modules
+.next
+out
+dist
+build
+*.local
+.env
+.env*.local
+*.log
+
+# Media / Videos / Recordings (anti-commit media rule)
+*.mp4
+*.webm
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+media/
+videos/
+renders/
+recordings/

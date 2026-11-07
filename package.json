@@ -1,0 +1,37 @@
+{
+  "name": "omnicircuit-reactive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Autonomous Sub-Second DeFi Circuit Breaker & Liquidity Sentinel on Base Sepolia powered by Reactive Omni",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "compile": "node scripts/compile.js",
+    "deploy:origin": "node scripts/deploy-origin.js",
+    "deploy:reactive": "node scripts/deploy-reactive.js",
+    "deploy:callback": "node scripts/deploy-callback.js",
+    "trigger:simulation": "node scripts/trigger-simulation.js"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.453.0",
+    "next": "14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.4",
+    "viem": "^2.21.35"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "solc": "^0.8.29",
+    "tailwindcss": "^3.4.14",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.3"
+  }
+}
