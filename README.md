@@ -133,4 +133,4 @@ Visit `http://localhost:3000` to interact with the real-time telemetry console a
 
 ## 6. Built For
 - **Hackathon**: [Reactive Omni Buildathon](https://dorahacks.io/hackathon/reactive-omni-buildathon) on DoraHacks
-- **Track**: Track 1 — Every Second Counts (Low-Latency DeFi)
+- **Track**: Track 1 : Every Second Counts (Low-Latency DeFi)

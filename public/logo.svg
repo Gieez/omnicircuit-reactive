@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="8" fill="#08090C"/>
+  <rect x="1" y="1" width="46" height="46" rx="7" stroke="#1E222D" stroke-width="2"/>
+  <!-- Circuit tracks -->
+  <path d="M8 24H16L20 14L28 34L32 24H40" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Breaker Contacts -->
+  <circle cx="16" cy="24" r="2.5" fill="#10B981"/>
+  <circle cx="32" cy="24" r="2.5" fill="#3B82F6"/>
+  <!-- Pulse node -->
+  <circle cx="28" cy="34" r="2" fill="#06B6D4"/>
+</svg>
